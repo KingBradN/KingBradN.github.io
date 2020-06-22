@@ -1,2 +1,5 @@
-# KingBradN.github.io
-Portfolio
+
+Personal Portfolio site
+
+Responsive Web Programming
+
