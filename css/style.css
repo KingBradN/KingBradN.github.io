@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 * {
-    border-box: box-sizing;
+    box-sizing: border-box;
 }
 
 body {
@@ -177,8 +177,11 @@ footer .fa-heart {
     color: #f01;
 }
 
-@media(max-width: 440px) {
+@media(max-width: 500px) {
     section {
         padding: 20px;
+    }
+    #welcome-section {
+        text-align: center;
     }
 }
