@@ -95,7 +95,7 @@ section {
 }
 
 section h2 {
-    margin-top: 20px;
+    margin-top: 30px;
     color: #861657;
 }
 
@@ -183,5 +183,8 @@ footer .fa-heart {
     }
     #welcome-section {
         text-align: center;
+    }
+    section h2 {
+        margin-top: 45px;
     }
 }
