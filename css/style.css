@@ -173,6 +173,11 @@ section p {
     text-decoration: none;
 }
 
+.social-ul a:hover {
+    color: #a64253;
+    background-color: #ff1;
+}
+
 footer {
     background-color: #861657;
     color: #ff1;
