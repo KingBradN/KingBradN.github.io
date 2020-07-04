@@ -65,6 +65,10 @@ header p span {
     font-weight: 700;
 }
 
+header p span:hover {
+    color: greenyellow;
+}
+
 header p {
     font-size: 30px;
     margin: 0;
