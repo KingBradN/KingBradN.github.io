@@ -182,6 +182,30 @@ section p {
     background-color: #ff1;
 }
 
+.social-ul .fa-facebook:active {
+    color: #3b5998;
+    background-color: #ff1;
+    border-radius: 50%;
+}
+
+.fa-twitter:active {
+    color: #00acee;
+    background-color: #ff1;
+    border-radius: 50%;
+}
+
+.fa-github:active {
+    color: #333;
+    background-color: #ff1;
+    border-radius: 50%;
+}
+
+.fa-linkedin:active {
+    color: #4078c0;
+    background-color: #ff1;
+    border-radius: 50%;
+}
+
 footer {
     background-color: #861657;
     color: #ff1;
